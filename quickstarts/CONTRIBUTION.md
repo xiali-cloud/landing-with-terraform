@@ -19,7 +19,7 @@ An example contains at least the following files:
 ├── README.md
 ├── footer.md
 ├── header.md
-├── main.tf
+├── resource.tf
 ├── provider.tf
 └── variable.tf
 ```
